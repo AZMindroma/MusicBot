@@ -187,7 +187,7 @@ public class PlaylistCmd extends DJCommand
         }
     }
     
-    public class ListCmd extends OwnerCommand 
+    public class ListCmd extends DJCommand 
     {
         public ListCmd()
         {
